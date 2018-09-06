@@ -28,7 +28,7 @@ ul.sdt_menu li > a{
 	position:absolute;
 	top:0px;
 	left:0px;
-	width:90%;
+	width:99%;
 	height:85px;
 	z-index:12;
 	background:transparent url(../images/overlay.png) no-repeat bottom right;
