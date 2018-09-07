@@ -560,7 +560,15 @@ iframe.team {
     padding-bottom: 0px;
   padding-left: 30px;
 }
-
+iframe.team1 {
+  width: 55%;
+  height: 450px;
+  max-height: 60%;
+   padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+  padding-left: 30px;
+}
 /* Apparel */
 
 iframe.store {
